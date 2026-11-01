@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ДЕЛО (DELO)
 
 Платформа для создания и управления реальными компаниями с виртуальной командой ИИ-агентов под контролем человека.
@@ -20,3 +21,6 @@
 - **Backend:** Rust (Tokio, Axum, SQLx, Tower, Tracing), модульный монолит.
 - **Frontend:** React, TypeScript, Vite, TanStack Query/Router, Zustand, Tailwind.
 - **Инфраструктура:** PostgreSQL, S3-совместимое хранилище, Docker. Redis только при горизонтальном масштабировании.
+=======
+# DELO
+>>>>>>> origin/main
