@@ -33,3 +33,5 @@ web/dist/
 !.env.example
 
 Main-BoardDo
+
+.DS_Store
